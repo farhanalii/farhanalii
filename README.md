@@ -2,7 +2,7 @@
   
 # ⚡ Hi there, I'm Muhammad Farhan ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=FF00FF&background=0D001100&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3C%2F%3E+SENIOR+BACKEND+ENGINEER+%3C%2F%3E;%E2%9A%A1+PYTHON+%7C+CLOUD+%7C+MICROSERVICES+%E2%9A%A1;%F0%9F%94%A5+7%2B+YEARS+EXPERIENCE+%F0%9F%94%A5" alt="Cyberpunk Typing" />
+<img src="https://github.com/farhanalii/farhanalii/blob/main/assets/cover.png" />
 
 ```
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
