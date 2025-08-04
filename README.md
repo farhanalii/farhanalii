@@ -91,6 +91,7 @@ Odoo ERP • Pandas • NumPy • Pytest • Git • Linux • Nginx
 - 📜 **Data Analysis with Python** - IBM
 - 🔐 **Introduction to Cryptography** - University of Leeds  
 - ⚡ **Agile Project Management** - Google
+- 🐙 **Career Essentials in GitHub Professional Certificate** - GitHub
 - 🐳 **Docker Foundation Professional Certificate** - GitHub
 
 ### 🌐 Let's Connect
