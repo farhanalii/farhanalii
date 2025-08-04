@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡ Hi there, I'm Muhammad Farhan ⚡
+# ⚡ Hi there ⚡
 
 <img src="https://github.com/farhanalii/farhanalii/blob/main/assets/cover.png" />
 
