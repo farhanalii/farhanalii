@@ -71,12 +71,12 @@ Odoo ERP • Pandas • NumPy • Pytest • Git • Linux • Nginx
 ### 📊 GitHub Stats
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=farhanali-se&show_icons=true&theme=synthwave&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=farhanalii&show_icons=true&theme=synthwave&hide_border=true" 
     alt="Farhan's GitHub stats"
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanali-se&layout=compact&theme=synthwave&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanalii&layout=compact&theme=synthwave&hide_border=true" 
     alt="Top Languages"
     height="180"
   />
