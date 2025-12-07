@@ -14,7 +14,7 @@
 
 ## 🚀 Senior Backend Engineer | Python & ERP Specialist | Cloud Architect
 
-I'm a passionate backend engineer with **7+ years** of experience building scalable, high-performance systems that power enterprise applications. Currently architecting microservices at **Tier1 Asset Management Ltd** in Manchester, United Kingdom.
+I'm a passionate backend engineer with **7+ years** of experience building scalable, high-performance systems that power enterprise applications. Currently architecting microservices at **Tier1 Asset Management Ltd** in Manchester, United Kingdom🇬🇧.
 
 ### 🔥 What I Do
 - 🏗️ **Microservices Architecture**: Designing and building distributed systems that handle millions of transactions
