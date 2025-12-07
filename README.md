@@ -71,18 +71,10 @@ Odoo ERP • Pandas • NumPy • Pytest • Git • Linux • Nginx
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-<!-- GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=farhanali-se&show_icons=true&theme=synthwave&hide_border=true" 
-  alt="Farhan's GitHub stats"
-/>
 
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanali-se&layout=compact&theme=synthwave&hide_border=true" 
-  alt="Top Languages"
-/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=ff00ff)](https://www.linkedin.com/in/farhanalise/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=00ffff)](mailto:farhan.ali.se@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000&color=ff6600)](https://muhammadfarhan.work)
 
 </div>
 
