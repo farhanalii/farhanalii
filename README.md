@@ -12,9 +12,9 @@
 
 </div>
 
-## 🚀 Senior Backend Engineer | Python Specialist | Cloud Architect
+## 🚀 Senior Backend Engineer | Python & ERP Specialist | Cloud Architect
 
-I'm a passionate backend engineer with **7+ years** of experience building scalable, high-performance systems that power enterprise applications. Currently architecting microservices at **Dalba Group** in Riyadh, Saudi Arabia.
+I'm a passionate backend engineer with **7+ years** of experience building scalable, high-performance systems that power enterprise applications. Currently architecting microservices at **Tier1 Asset Management Ltd** in Manchester, United Kingdom.
 
 ### 🔥 What I Do
 - 🏗️ **Microservices Architecture**: Designing and building distributed systems that handle millions of transactions
@@ -23,11 +23,27 @@ I'm a passionate backend engineer with **7+ years** of experience building scala
 - 🤖 **Process Automation**: Reduced manual processes by 85% through intelligent automation solutions
 
 ### 💼 Current Role
-**Senior Backend Engineer @ Dalba Group** *(Oct 2020 - Present)*
+**Senior Backend Engineer @ Tier1 Asset Management Ltd (Manchester, UK 🇬🇧)** *(Sep 2025 - Present)*
 - Built microservices for billing automation, real-time notifications, and document generation
 - Led CI/CD pipeline implementation, reducing deployment issues by 30%
 - Architected blockchain-inspired tracking systems for transaction integrity
 - Mentored junior developers and conducted comprehensive code reviews
+
+### 💼 Previous Work History
+**Senior Software Engineer @ Dalba Group (Riyadh, Saudia Arabia 🇸🇦)** *(Oct 2020 - Aug 2025)*
+- Designed and optimized large-scale Odoo ERP modules (Finance, HR, Inventory, Sales, Procurement)
+- Architected internal backend services using Python, FastAPI, and Flask, improving workflow automation by 70%
+- Implemented Dockerized cloud deployments on DigitalOcean & Alibaba Cloud (45% faster releases)
+- Built and maintained REST APIs for multi-department integrations
+- Set up GitHub Actions CI/CD pipelines for testing, security checks, and automated releases
+- Enhanced PostgreSQL performance with indexing, partitioning & query optimization
+- Delivered scalable enterprise solutions used by 3000+ users across departments
+
+**Software Engineer @ Napollo Software Design (New York, USA) 🇺🇸** *(Nov 2019 - Sep 2020)*
+- Developed backend features in Python, FastAPI, Flask, and Odoo for enterprise clients
+- Built reporting engines and integrations with third-party systems
+- Improved API performance through optimized schemas and lightweight async endpoints
+- ntroduced Docker-based development environments for consistent builds and faster onboarding
 
 ### 🛠️ Tech Stack
 
@@ -56,9 +72,17 @@ Odoo ERP • Pandas • NumPy • Pytest • Git • Linux • Nginx
 
 <div align="center">
   
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanalii&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff)
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=farhanali-se&show_icons=true&theme=synthwave&hide_border=true" 
+  alt="Farhan's GitHub stats"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanalii&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff)
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanali-se&layout=compact&theme=synthwave&hide_border=true" 
+  alt="Top Languages"
+/>
 
 </div>
 
